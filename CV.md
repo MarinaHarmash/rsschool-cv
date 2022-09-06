@@ -1,15 +1,25 @@
-# Harmash Maryna
+# **Harmash Maryna**
 
-## Junior front-end developer
+## **_Junior front-end developer_**
 
-![photo](/img/photo_2022-06-25_10-07-15.png)
+# ![photo](/img/photo_2022-06-25_10-07-15.png)
 
-### Contacts:
+### **_Contacts:_**
 
-[mail](marina.garmash94@gmail.com "marina.garmash94@gmail.com")
+[Mail](marina.garmash94@gmail.com "marina.garmash94@gmail.com")
 
-[github](https://github.com/MarinaHarmash "https://github.com/MarinaHarmash")
+[Github](https://github.com/MarinaHarmash "https://github.com/MarinaHarmash")
 
-[tel:+380978529096](+380978529096)
+[Linkedin](https://www.linkedin.com/in/marina-harmash "Marina Harmash")
 
-<p>Kharkiv, Ukraine</p>
+[Tel](+380978529096)
+
+[Telegram](@maagri)
+
+---
+
+<p>
+I'm oriented toward Front-End development with a passion to learn new things. Graduated with several courses focused on my interests. Basic knowledge of Python development with experience in creating simple sites depends on Python Flask. My English skill is standing on my experience as a teacher. Well-mannered, seeking new knowledge, and focused on the result
+</p>
+
+---
