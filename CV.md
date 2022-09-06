@@ -48,3 +48,19 @@ I'm oriented toward Front-End development with a passion to learn new things. Gr
 - VS Code
 
 ---
+
+### **_Courses_**
+
+- "Python" on Udemy (completed)
+
+![photo](/img/QnGErb.png)
+
+- "Master Html" on Bitdegree (in progress);
+
+- "JavaScript full course for beginers" on Youtube (in progress).
+
+### **_Languages_**
+
+- Russian - native;
+- Ukrainian - fluently
+- English - intermediate
