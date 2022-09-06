@@ -1,2 +1,1 @@
-# rsschool-cv
-Repository for RS School
+https://marinaharmash.github.io/rsschool-cv/cv
