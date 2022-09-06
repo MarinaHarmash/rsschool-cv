@@ -2,19 +2,17 @@
 
 ## **_Junior front-end developer_**
 
-![photo](/img/photo_2022-06-25_10-07-15.png)
+![photo](/img/photo_mini.png)
 
 ### **_Contacts:_**
 
-[Mail](marina.garmash94@gmail.com "marina.garmash94@gmail.com")
+[eMail: marina.garmash94@gmail.com](marina.garmash94@gmail.com "marina.garmash94@gmail.com")
 
-[Github](https://github.com/MarinaHarmash "https://github.com/MarinaHarmash")
+[Github: MarinaHarmash](https://github.com/MarinaHarmash "https://github.com/MarinaHarmash")
 
-[Linkedin](https://www.linkedin.com/in/marina-harmash "Marina Harmash")
+[Linkedin: marina-harmash](https://www.linkedin.com/in/marina-harmash "Marina Harmash")
 
-[Phone](+380978529096)
-
-[Telegram](@maagri)
+[Telegram](@maagri) \ [Phone: +380978529096](+380978529096)
 
 ---
 
