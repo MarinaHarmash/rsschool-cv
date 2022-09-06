@@ -12,7 +12,7 @@
 
 [Linkedin](https://www.linkedin.com/in/marina-harmash "Marina Harmash")
 
-[Tel](+380978529096)
+[Phone](+380978529096)
 
 [Telegram](@maagri)
 
