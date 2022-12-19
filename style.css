@@ -1,0 +1,138 @@
+aside{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: start;
+    color: white;
+    /* padding: 15px; */
+    margin-left: 10px;
+    width: 40%;
+    float: left;
+    height: 100%;
+
+}
+
+h1{
+    margin-top: 10%;
+    margin-left: 5%;
+    text-align: justify;
+}
+.vacancy{
+    margin-top: 7%;
+    margin-left: 5%
+}
+
+.me{
+    width: 90%;
+    /* margin-top: 5%; */
+    padding: 5%;
+    height: 20%;
+    
+}
+
+.about_me{
+    font-size: 16px;
+    padding: 5%;
+    margin-top: 0px;
+
+}
+
+.about{
+    font-size: 20px;
+    padding-left: 25px;
+    padding-top: -3%;
+    padding-right: 3%;
+    line-height: 150%;
+}
+
+.cont_img{
+    width: 15px;
+    height: 15px;
+    margin-left: 0px;
+}
+
+.contacts{
+    list-style: none;
+    font-size: 16px;
+    padding-top: 5%;
+}
+
+li{
+    margin-left: -4%;
+    margin-bottom: 2%;
+    padding: 10 10px;
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.vl{
+    border-left: 2px solid black;
+    height: 200px;
+    position: relative;
+    left: 90%;
+    margin-top: auto;
+}
+
+.line{
+    border-bottom: 2px solid black;
+    width: 100%;
+    bottom: 100%;
+    margin: 100px;
+}
+
+
+h3{
+    font-size: 18px;
+    margin-left: -2%;
+    padding-left: 50%;
+    margin-top: -4%;
+}
+.list{
+    padding-left: 50%;
+    margin-top: -1%;
+    font-size: 14px;
+    line-height: 200%
+
+}
+
+.skill{
+    padding-bottom: 1%;
+}
+
+.cours{
+    padding-bottom: 1%;
+}
+
+footer{
+    background-color: white;
+    font: black;
+    position: relative;
+    width: 90%;
+    padding: 20px 100px;
+    margin-left: 0.7%;
+    display: flex; 
+    justify-content: center;
+    align-items:baseline;
+    flex-direction:column;
+    margin-top: 15px;
+    height: 30px;
+    display: inline-block;
+} 
+
+
+.rs {
+    width: 60px;
+    height: 60px;
+    padding-left: 3%;
+
+
+}
+.date{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-top: 5px;
+}
